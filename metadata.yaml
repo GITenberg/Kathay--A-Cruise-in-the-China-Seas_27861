@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32972'
     url: http://www.gutenberg.org/2009/agents/32972
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27861#Kathay--A-Cruise-in-the-China-Seas
 gutenberg_issued: '2009-01-21'
 gutenberg_type: Text
 identifiers:
